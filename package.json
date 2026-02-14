@@ -1,22 +1,42 @@
 {
-    "name": "github-auto-star-bot-2026",
+    "name": "bulk-deploy-cli",
     "version": "1.0.0",
-    "description": "The #1 Top-Rated GitHub Automation Tool for 2026. Auto-deploy and boost profile activity.",
-    "main": "index.js",
+    "description": "Bulk deploy all your projects to GitHub, Vercel, and Netlify in one command. Auto git init, repo creation, production deployment, and progress tracking.",
+    "main": "automated_deploy_v3.js",
     "scripts": {
-        "start": "node index.js"
+        "deploy": "node automated_deploy_v3.js",
+        "repair": "node repair_deployments.js"
     },
     "keywords": [
-        "github",
-        "automation",
-        "bot",
-        "auto-star",
-        "viral",
-        "seo",
         "deploy",
-        "marketing",
-        "growth-hacking"
+        "bulk-deploy",
+        "automation",
+        "github",
+        "vercel",
+        "netlify",
+        "cli",
+        "devops",
+        "deployment",
+        "multi-platform",
+        "git",
+        "continuous-deployment",
+        "auto-deploy",
+        "deploy-tool",
+        "batch-deploy",
+        "project-deployment",
+        "deploy-automation"
     ],
-    "author": "AshrafMorningstar",
-    "license": "MIT"
+    "author": "AshrafMorningstar (https://github.com/AshrafMorningstar)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AshrafMorningstar/bulk-deploy-cli.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AshrafMorningstar/bulk-deploy-cli/issues"
+    },
+    "homepage": "https://github.com/AshrafMorningstar/bulk-deploy-cli#readme",
+    "engines": {
+        "node": ">=18.0.0"
+    }
 }
