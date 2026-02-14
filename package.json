@@ -1,0 +1,22 @@
+{
+    "name": "github-auto-star-bot-2026",
+    "version": "1.0.0",
+    "description": "The #1 Top-Rated GitHub Automation Tool for 2026. Auto-deploy and boost profile activity.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "github",
+        "automation",
+        "bot",
+        "auto-star",
+        "viral",
+        "seo",
+        "deploy",
+        "marketing",
+        "growth-hacking"
+    ],
+    "author": "AshrafMorningstar",
+    "license": "MIT"
+}
